@@ -1,3 +1,5 @@
+# Using @tensorflow with a pretrained AI that will detect motion and name the object - using your computers camera. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
