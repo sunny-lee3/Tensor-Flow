@@ -1,5 +1,7 @@
 # Using @tensorflow with a pretrained AI that will detect motion and name the object - using your computers camera. 
 
+The possibilities are limitless. We can possibly add this to a raseberry pi, and then connect a camera to that - that can possibly project onto some sort of lense (maybe you can configure a VR headset), and then you can be part cyborg or act like Batman. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
